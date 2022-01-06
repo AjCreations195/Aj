@@ -139,6 +139,12 @@ img{
         transition: .5s;
         backdrop-filter: blur(10px);
     }
+    .nav_logo{
+        font-size: 20px;
+        font-family: 'IM Fell English SC', serif;
+        color: var(--white-color);
+    
+    }
 }
 .nav__item{
     margin-bottom: var(--mb-4);
